@@ -3,7 +3,7 @@
     materialized = 'view'
     )
 }}
-
+--ref
 WITH src_hosts AS (
     SELECT
         *
